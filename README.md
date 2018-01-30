@@ -6,3 +6,4 @@ Record of meetings with minutes, slides, and other important documents.
 
 ## 01.18.2018 Launch and Learn: 
 [Launch and Learn Video](https://www.youtube.com/watch?v=0Y3U4qC4BwU&feature=youtu.be)
+ 
