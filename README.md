@@ -1,9 +1,21 @@
 # Meeting-Archive
 Record of meetings with minutes, slides, and other important documents.
 
+## 02.22.18 General Meeting:
+Upcoming
+
+## 02.15.18 Launch and Learn: Git and GitHub overview:
+[Launch and Learn Video](https://www.youtube.com/watch?v=b8EQ_EcnjiQ)
+
+## 02.08.18 General Meeting:
+?Slides? and Minutes to come, running a bit behind I know. 
+
+## 02.01.18 Launch and Learn: Professionalism
+Video is still being processed
+
 ## 01.25.18 General Meeting:
 [Meeting Slides](https://docs.google.com/presentation/d/10VWH_HSCKyYTN8_kQykGLQFYh_3NhjV3DEjfZL7XI6E/edit#slide=id.p3)
 
 ## 01.18.2018 Launch and Learn: 
-[Launch and Learn Video](https://www.youtube.com/watch?v=0Y3U4qC4BwU&feature=youtu.be)
+[Launch and Learn Video](https://www.youtube.com/watch?v=r67IILsffqg)
  
