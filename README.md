@@ -8,7 +8,8 @@ Upcoming
 [Launch and Learn Video](https://www.youtube.com/watch?v=b8EQ_EcnjiQ)
 
 ## 02.08.18 General Meeting:
-?Slides? and Minutes to come, running a bit behind I know. 
+[Meeting Slides](https://docs.google.com/presentation/d/1Ac6WbhAn3ab5PAx4E-7Ylp_YkcDlu-KJ7du-VRWB18E/edit?usp=sharing)
+Minutes to come, running a bit behind I know. 
 
 ## 02.01.18 Launch and Learn: Professionalism
 Video is still being processed
