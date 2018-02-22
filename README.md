@@ -9,7 +9,8 @@ Upcoming
 
 ## 02.08.18 General Meeting:
 [Meeting Slides](https://docs.google.com/presentation/d/1Ac6WbhAn3ab5PAx4E-7Ylp_YkcDlu-KJ7du-VRWB18E/edit?usp=sharing)
-Minutes to come, running a bit behind I know. 
+
+Minutes to come, in final stages of editing.
 
 ## 02.01.18 Launch and Learn: Professionalism
 Video is still being processed
