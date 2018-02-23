@@ -12,8 +12,8 @@ Upcoming
 
 Minutes to come, in final stages of editing.
 
-## 02.01.18 Launch and Learn: Professionalism
-Video is still being processed
+## 02.01.18 Launch and Learn: Professionalism and the UC Career Fair
+[Launch and Learn Video](https://www.youtube.com/watch?v=ICzbrer8HHs)
 
 ## 01.25.18 General Meeting:
 [Meeting Slides](https://docs.google.com/presentation/d/10VWH_HSCKyYTN8_kQykGLQFYh_3NhjV3DEjfZL7XI6E/edit#slide=id.p3)
