@@ -2,7 +2,7 @@
 Record of meetings with minutes, slides, and other important documents.
 
 ## 02.22.18 General Meeting:
-Upcoming
+[Meeting Slides](goo.gl/2PYK2G)
 
 ## 02.15.18 Launch and Learn: Git and GitHub overview:
 [Launch and Learn Video](https://www.youtube.com/watch?v=b8EQ_EcnjiQ)
