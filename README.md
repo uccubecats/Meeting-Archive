@@ -3,6 +3,7 @@ Record of meetings with minutes, slides, and other important documents.
 
 ## 02.22.18 General Meeting:
 [Meeting Slides](https://goo.gl/2PYK2G)
+
 [Meeting Minutes](https://drive.google.com/file/d/1SDVQARdk_IOzZpUeb1KpDeL_Yt8bSE1C/view?usp=sharing)
 
 ## 02.15.18 Launch and Learn: Git and GitHub overview:
