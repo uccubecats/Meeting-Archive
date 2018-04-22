@@ -1,0 +1,35 @@
+# CubeCats Program Manager Elections 4_19_18
+- Ben Silcox presents
+       - Plans...
+       - Make transition from CATiSE to Cubesat faster and smoother
+       - Centralized Calendar (Dead lines)
+       - Automate action items
+       - Organize social events
+       - Work on partnerships with other clubs
+
+- Ian Wells presents
+       - Plans...
+       - Continue to serve as a go between between club members and exec
+       - Make exec meetings more open to club (ask questions and voice concerns to executives)
+       - Implementing sub system meetings durring "Open Lab Times" through out the week
+       - Work with education chair to improve launch and learns
+       - Revamp action items systems (Zapier)
+       - More events for recruitment
+       - Reach out to graduate students for help on projects
+       - Formal plan for CATiSE integration
+       - Work on partnerships with other clubs
+
+## NEW ELECTED PROGRAM MANAGER
+### Ian Wells
+
+# IRAD
+## Brett Lauerhass
+- Currently designing committee
+        - How to vote
+        - How projects are proposed
+        - Treasurer must be present during funding proposal
+- Chris proposes change in document to set goals of IRAD projects as part of the development
+- Ian asks for clarification on what determines an attending member
+       
+[JT] Talk with Brett about availability for funding proposals
+[Danny] Get committee design document from Brett
