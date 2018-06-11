@@ -1,7 +1,7 @@
 # Meeting-Archive
 Record of meetings with minutes, slides, and other important documents.
 
-## 05.23.18 General Meeting:
+## 06.07.18 General Meeting:
 [Meeting Slides](https://docs.google.com/presentation/d/1KxOt4pxd0FuibcBXj3xQrbCIjrKwrOxgk_oO6cnvo2k/edit?usp=sharing)
 
 ## 05.23.18 General Meeting:
